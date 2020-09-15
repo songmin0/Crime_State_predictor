@@ -3,6 +3,7 @@
 
 library(tidyverse)
 library(digest)
+install.packages("repr")
 library(repr)
 install.packages("caret")
 library(caret)
